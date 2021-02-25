@@ -1,10 +1,33 @@
 .img-fluid-small {
     max-width: 70%;
     height: auto;
+    margin-top: 10%;
+    
+    
+    
+}
+.container {
+    background-color:darkgray;
+    border: 
     
 }
 
 .card {
-    background-color: whitesmoke;
+    background-color:lightgray;
+    height: 100vh;
+    
+}
+
+h1 {
+    margin-top: 50px;
+    
+  
+}
+
+
+.col-3 {
+    .brightness img:hover {
+        opacity: .5;
+    }
 }
 
