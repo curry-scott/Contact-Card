@@ -2,10 +2,9 @@
     max-width: 70%;
     height: auto;
     margin-top: 10%;
-    
-    
-    
+        
 }
+
 .container {
     background-color:lightgrey;
     border: 
@@ -16,21 +15,6 @@
     background: radial-gradient(black, maroon);
 }
 
-
-h1 {
-    margin-top: 30px;
-
-}
-
-
-
-.col-3 {
-    .brightness img:hover {
-        opacity: .5;
-    }
-
-    
-.svg:hover Path, svg:hover  polygon{
-
-    fill: color
-}
+.cls-1:hover {
+        fill: darkred;
+    }    
