@@ -2,12 +2,13 @@
     max-width: 70%;
     height: auto;
     margin-top: 10%;
+    margin-bottom: 10%;
         
 }
 
 .container {
-    background-color:lightgrey;
-    border: 
+    background-color:gray;
+     
     
 }
 
@@ -18,3 +19,8 @@
 .cls-1:hover {
         fill: darkred;
     }    
+
+
+    
+
+
