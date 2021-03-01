@@ -16,6 +16,7 @@
     background-color:lightgray;
     height: 100vh;
     
+    
 }
 
 h1 {
@@ -29,5 +30,4 @@ h1 {
     .brightness img:hover {
         opacity: .5;
     }
-}
 
